@@ -8,4 +8,4 @@ My Social media Jesse_EC[https://space.bilibili.com/474319456]
 
 
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesseZ332623&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesseZ332623)](https://github.com/anuraghazra/github-readme-stats)
