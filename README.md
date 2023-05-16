@@ -13,3 +13,5 @@ My E-mail 3191955858@qq.com;
 My Social media [Jesse_EC](https://space.bilibili.com/474319456)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseZ332623&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
