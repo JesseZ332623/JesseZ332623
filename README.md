@@ -10,9 +10,9 @@
 
 My E-mail:
 
-[!QQ-Mail](https://img.shields.io/badge/QQ_Mail-3191955858@qq.com-blue)
+![QQ-Mail](https://img.shields.io/badge/QQ_Mail-3191955858@qq.com-blue)
 
-[!Google-Mail](https://img.shields.io/badge/Google_Mail-zhj3191955858Qgmail.com-red)  
+![Google-Mail](https://img.shields.io/badge/Google_Mail-zhj3191955858gmail.com-red)
 
 
 My Social media:    
