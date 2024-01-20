@@ -14,7 +14,9 @@ And I often publish some music_score in:
 
 [![My_Musescore_Profile](https://img.shields.io/badge/Orchestral-Musescore-blue)](https://musescore.com/user/57234246)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseZ332623)](https://github.com/anuraghazra/github-readme-stats)
+The programming language I am learning:
+
+![mordenC++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
 
 ![Jesse's Github Stats](https://github-readme-stats.vercel.app/api?username=JesseZ332623&show_icons=true&theme=radical)
 
