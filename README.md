@@ -1,13 +1,5 @@
 👋 Hi, I’m @Jesse_EC;
 
-👀 I’m interested in Music and Programming;
-
-🌱 I’m currently learning Nanjing University of Industry;
-
-💞️ I’m looking to collaborate on Programming Together!;
-
-📫 How to contact me?
-
 My E-mail:
 
 ![QQ-Mail](https://img.shields.io/badge/QQ_Mail-3191955858@qq.com-blue)
@@ -27,6 +19,6 @@ And I often publish some music_score in:
 
 ![Jesse's Github Stats](https://github-readme-stats.vercel.app/api?username=JesseZ332623&show_icons=true&theme=radical)
 
-
+![Visitor Count](https://profile-counter.glitch.me/JesseZ332623/count.svq)
 
 😎😎😎
