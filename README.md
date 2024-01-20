@@ -6,18 +6,19 @@ My E-mail:
 
 ![Google-Mail](https://img.shields.io/badge/Google_Mail-zhj3191955858gmail.com-red)
 
-
-My Social media:    
+My Social media：
 
 [![Jesse_EC](https://img.shields.io/badge/Bilibili-Jesse_EC-pink)](https://space.bilibili.com/474319456)
 
-And I often publish some music_score in:      
+And I often publish some music_score in:
 
 [![My_Musescore_Profile](https://img.shields.io/badge/Orchestral-Musescore-blue)](https://musescore.com/user/57234246)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseZ332623)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Jesse's Github Stats](https://github-readme-stats.vercel.app/api?username=JesseZ332623&show_icons=true&theme=radical)
+
+![头像](./img/Bailu.gif)
 
 ![Visitor Count](https://profile-counter.glitch.me/JesseZ332623/count.svg)
 
