@@ -19,6 +19,6 @@ And I often publish some music_score in:
 
 ![Jesse's Github Stats](https://github-readme-stats.vercel.app/api?username=JesseZ332623&show_icons=true&theme=radical)
 
-![Visitor Count](https://profile-counter.glitch.me/JesseZ332623/count.svq)
+![Visitor Count](https://profile-counter.glitch.me/JesseZ332623/count.svg)
 
 😎😎😎
