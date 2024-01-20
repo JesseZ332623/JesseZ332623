@@ -16,7 +16,7 @@ And I often publish some music_score in:
 
 The programming language I am learning:
 
-![mordenC++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+![mordenC++](./img/ISO_C++_Logo.png)
 
 ![Jesse's Github Stats](https://github-readme-stats.vercel.app/api?username=JesseZ332623&show_icons=true&theme=radical)
 
