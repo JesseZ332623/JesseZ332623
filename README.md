@@ -11,8 +11,9 @@
 My E-mail:           3191955858@qq.com or zhj3191955858@gmail.com   
 
 
-My Social media:     [Jesse_EC](https://space.bilibili.com/474319456)
+My Social media:    
 
+[![Jesse_EC](https://img.shields.io/badge/Bilibili-Jesse_EC-pink)](https://space.bilibili.com/474319456)
 
 And I often publish some music_score in:      
 
