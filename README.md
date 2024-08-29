@@ -16,7 +16,7 @@
 
 ![mordenC++](./img/ISO_C++_Logo.png) `And` ![C](./img/ISO_C_Logo.png)
 
-![Jesse's Github Stats](https://camo.githubusercontent.com/26f7f9cb1c675385e5396ebf029660c849fef303891f38b4576791ffc8b0fc6e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4a657373655a3333323632332673686f775f69636f6e733d74727565267468656d653d7261646963616c)
+![Jesse's Github Stats]([(https://github-readme-stats.vercel.app/api?username=Cl0udG0d)](https://github.com/anuraghazra/github-readme-stats))
 
 ![头像](./img/Nahida_and_Lanaro.png)
 
