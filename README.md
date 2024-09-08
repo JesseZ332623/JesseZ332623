@@ -1,9 +1,5 @@
 # 👋 Hi, I’m Jesse
 
-## My E-mail
-
-![Google-Mail](https://img.shields.io/badge/Google_Mail-zhj3191955858gmail.com-red)
-
 ## My Social media
 
 [![Jesse_EC](https://img.shields.io/badge/Bilibili-Jesse_EC-pink)](https://space.bilibili.com/474319456)
