@@ -12,7 +12,15 @@
 
 ![mordenC++](./img/ISO_C++_Logo.png) `And` ![C](./img/ISO_C_Logo.png)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JesseZ332623&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="JesseZ332623's Github Stats">
+---
+
+<!-- GitHub Stats with Custom Design -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omoghaoghenemano&theme=radical&fire=ff6b6b&currStreakLabel=ffffff&ring=bb2acf&background=151515&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JesseZ332623&show_icons=true&title_color=ffffff&icon_color=ffbb2c&text_color=ffffff&bg_color=0d1117" />
+</div>
+
+---
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseZ332623&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
