@@ -20,10 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JesseZ332623&show_icons=true&title_color=ffffff&icon_color=ffbb2c&text_color=ffffff&bg_color=0d1117" />
 </div>
 
----
-
----
-
 ### 📊 **GitHub Activity**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JesseZ332623&theme=react-dark&bg_color=151515&line=00bfff&point=ffffff&color=00bfff" alt="Contribution Graph" />
