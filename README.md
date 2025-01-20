@@ -14,8 +14,6 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JesseZ332623&theme=dark&short_numbers=true)](https://git.io/streak-stats)
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JesseZ332623&show_icons=true&title_color=ffffff&icon_color=ffbb2c&text_color=ffffff&bg_color=0d1117" />
 </div>
