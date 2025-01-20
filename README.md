@@ -16,7 +16,7 @@
 
 <!-- GitHub Stats with Custom Design -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesseZ332623&theme=radical&fire=ff6b6b&currStreakLabel=ffffff&ring=bb2acf&background=151515&sideNums=ffffff&sideLabels=ffffff" alt="GitHub Streak Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JesseZ332623&theme=dark&short_numbers=true" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=JesseZ332623&show_icons=true&title_color=ffffff&icon_color=ffbb2c&text_color=ffffff&bg_color=0d1117" />
 </div>
 
