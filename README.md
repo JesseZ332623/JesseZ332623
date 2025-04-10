@@ -10,7 +10,7 @@
 
 ## The programming language I am learning
 
-![mordenC++](./img/ISO_C++_Logo.png) `And` ![C](./img/ISO_C_Logo.png)
+![mordenC++](./img/ISO_C++_Logo.png) ![Java](./img/Java%20LOGO.png)
 
 ---
 
