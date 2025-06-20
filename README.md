@@ -8,9 +8,12 @@
 
 [![My_Musescore_Profile](https://img.shields.io/badge/Orchestral-Musescore-blue)](https://musescore.com/user/57234246)
 
-## The programming language I am learning
-
-![mordenC++](./img/ISO_C++_Logo.png) ![Java](./img/Java%20LOGO.png)
+<h2>🛠 Skills</h2>
+<p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,spring,js,mysql,git,github,vscode,linux,md" align="center">
+    </a>
+</p>
 
 ---
 
