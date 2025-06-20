@@ -11,7 +11,7 @@
 <h2>🛠 Skills</h2>
 <p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,spring,js,mysql,git,github,vscode,linux,md" align="center">
+        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,spring,js,mysql,redis,git,github,vscode,linux,md" align="center">
     </a>
 </p>
 
